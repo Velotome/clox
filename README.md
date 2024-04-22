@@ -1,2 +1,2 @@
 # clox
-Made from the book Crafting Interpreters by Robert Nystrom. https://craftinginterpreters.com/
+Made using the book Crafting Interpreters by Robert Nystrom. https://craftinginterpreters.com/
